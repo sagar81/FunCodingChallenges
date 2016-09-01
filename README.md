@@ -1,2 +1,2 @@
 # FunCodingChallenges
-Solution to Hacker Rank algorithm questions
+Solution to algorithm questions
