@@ -2,6 +2,12 @@
 
 import sys
 
+# Definitions
+# Cn : number of nodes after nth step
+# Sn : sum of distances between each pair after nth step
+# Rn : Sum of distances from one of the root nodes to the rest of the nodes after nth step
+# dn : longest path length in the graph after nth step
+
 def SumOfDistances(N, A):
     r = 1000000007
     # Initialization
