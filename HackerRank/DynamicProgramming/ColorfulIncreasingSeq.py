@@ -1,4 +1,4 @@
-# This solution is built on a form of exclusion, inclusion principle and simple
+# This solution is built on a form of exclusion, inclusion principle which needs to consider 2^K subsets and simple
 # DP of O(n^2) which is not good for large arrays. After doing some online research I found that 
 # there is an advanced data structure BIT (Binary Indexed Tree) that can be used to reduce O(n^2) to O(nlogn).
 # Union and Intersection are not in strict sense the way they are defined in set theory. But making a simple
